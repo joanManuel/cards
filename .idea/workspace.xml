@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="051f980b-3ccd-43ad-9367-117ac1c09b35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1gtK3vzHjF30AnK58FR90Mb7Jj3" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Cursos\CSS GRID - Flexbox\propio\cards\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="051f980b-3ccd-43ad-9367-117ac1c09b35" name="Default Changelist" comment="" />
+      <created>1598928252412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598928252412</updated>
+      <workItem from="1598928253500" duration="3460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\bin\bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="319" key="#Chrome_Settings" timestamp="1598928706879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="659" y="319" key="#Chrome_Settings/0.0.1536.824@0.0.1536.824" timestamp="1598928706879" />
+    <state x="204" y="236" key="FileChooserDialogImpl" timestamp="1598936004120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="204" y="236" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598936004120" />
+    <state x="377" y="73" key="SettingsEditor" timestamp="1598936006596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="73" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598936006596" />
+    <state x="748" y="21" width="789" height="798" key="dock-window-1" timestamp="1598935972621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="748" y="21" width="789" height="798" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1598935972621" />
+  </component>
+</project>
