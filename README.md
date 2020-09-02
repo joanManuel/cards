@@ -1,2 +1,2 @@
 # cards
-[view] -> https://github.com/joanManuel/cards
+[view] -> https://joanmanuel.github.io/cards/
