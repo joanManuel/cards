@@ -1,2 +1,2 @@
 # cards
-[view] -> https://joanmanuel.github.io/cards/
+[View in GitHub Pages 😃 ](https://joanmanuel.github.io/cards/)
